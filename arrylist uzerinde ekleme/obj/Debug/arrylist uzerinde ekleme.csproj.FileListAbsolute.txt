@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist uzerinde ekleme.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist uzerinde ekleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist_uzerinde_ekleme.Form1.resources
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist_uzerinde_ekleme.Properties.Resources.resources
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist uzerinde ekleme.csproj.GenerateResource.cache
+C:\Users\User\source\repos\arrylist uzerinde ekleme\arrylist uzerinde ekleme\obj\Debug\arrylist uzerinde ekleme.csproj.CoreCompileInputs.cache
